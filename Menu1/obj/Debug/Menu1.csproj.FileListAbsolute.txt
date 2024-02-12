@@ -1,0 +1,7 @@
+C:\Users\ale8i\Desktop\Backend\Setttima 3\Menu1\Menu1\bin\Debug\Menu1.exe.config
+C:\Users\ale8i\Desktop\Backend\Setttima 3\Menu1\Menu1\bin\Debug\Menu1.exe
+C:\Users\ale8i\Desktop\Backend\Setttima 3\Menu1\Menu1\bin\Debug\Menu1.pdb
+C:\Users\ale8i\Desktop\Backend\Setttima 3\Menu1\Menu1\obj\Debug\Menu1.csproj.AssemblyReference.cache
+C:\Users\ale8i\Desktop\Backend\Setttima 3\Menu1\Menu1\obj\Debug\Menu1.csproj.CoreCompileInputs.cache
+C:\Users\ale8i\Desktop\Backend\Setttima 3\Menu1\Menu1\obj\Debug\Menu1.exe
+C:\Users\ale8i\Desktop\Backend\Setttima 3\Menu1\Menu1\obj\Debug\Menu1.pdb
